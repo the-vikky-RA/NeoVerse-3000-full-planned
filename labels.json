@@ -1,0 +1,17 @@
+[
+  {"name":"character","color":"f29513","description":"Character-related tasks"},
+  {"name":"robot","color":"0e8a16","description":"Robotic characters"},
+  {"name":"animal","color":"c2e0c6","description":"Animal characters"},
+  {"name":"weapon","color":"d73a4a","description":"Weapon assets & balancing"},
+  {"name":"vehicle","color":"1d76db","description":"Vehicle assets & systems"},
+  {"name":"map","color":"0052cc","description":"Map design & implementation"},
+  {"name":"ui-ux","color":"6f42c1","description":"UI/UX design"},
+  {"name":"story","color":"5319e7","description":"Lore & story tasks"},
+  {"name":"technology","color":"0f7b8a","description":"Tech concepts & docs"},
+  {"name":"hardware","color":"b60205","description":"Hardware design tasks"},
+  {"name":"documentation","color":"0366d6","description":"Docs & guides"},
+  {"name":"concept-art","color":"ff7f50","description":"Art & concept work"},
+  {"name":"priority-high","color":"b60205","description":"High priority"},
+  {"name":"priority-medium","color":"fbca04","description":"Medium priority"},
+  {"name":"priority-low","color":"cb2431","description":"Low priority"}
+]
