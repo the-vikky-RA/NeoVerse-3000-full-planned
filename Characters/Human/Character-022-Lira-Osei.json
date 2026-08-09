@@ -1,0 +1,17 @@
+{
+  "id": "Character-022",
+  "name": "Lira Osei",
+  "role": "Bio-Archivist",
+  "category": "Researcher",
+  "affiliation": "Global Archives",
+  "home_world": "Neo Earth — Accra Vault",
+  "age": 42,
+  "height_cm": 162,
+  "visual_identity": {"key_colors":["amber","pearl"],"silhouette":"compact with satchel","notable_features":["archival lens","gloved hands"]},
+  "enhancements":["Memory indexer"],
+  "special_abilities":[{"name":"Archive Trace","description":"Recover lost cultural data from damaged media."}],
+  "equipment":{"weapons":[],"gadgets":["Archivist Tablet"]},
+  "statistics":{"health":100,"stamina":90,"armor":35,"strength":50,"intelligence":170,"agility":65},
+  "backstory":"Lira preserves cultural memory across shifting city-state borders.",
+  "lore_tags":["research","archive","accra"]
+}

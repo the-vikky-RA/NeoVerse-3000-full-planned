@@ -1,0 +1,17 @@
+{
+  "id": "Character-028",
+  "name": "Kaito Ren",
+  "role": "Urban Ranger",
+  "category": "Scout",
+  "affiliation": "Rangers Collective",
+  "home_world": "Neo Earth — Tokyo Arcology",
+  "age": 27,
+  "height_cm": 180,
+  "visual_identity": {"key_colors":["neon orange","black"],"silhouette":"hooded ranger suit","notable_features":["grapple boots","optic rangefinder"]},
+  "enhancements":["Urban locomotion servos"],
+  "special_abilities":[{"name":"Rooftop Flow","description":"Traverse urban rooftops with exceptional speed and stealth."}],
+  "equipment":{"weapons":["Hookblade"],"gadgets":["Grapple Module"]},
+  "statistics":{"health":100,"stamina":130,"armor":55,"strength":85,"intelligence":100,"agility":145},
+  "backstory":"Kaito knows every rooftop and service corridor in the Tokyo Arcology.",
+  "lore_tags":["ranger","tokyo","urban"]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Character-030",
+  "name": "Malik Aran",
+  "role": "Trade Broker",
+  "category": "Merchant",
+  "affiliation": "Helix Exchange",
+  "home_world": "Outer Rim — Helix Belt",
+  "age": 44,
+  "height_cm": 180,
+  "visual_identity": {"key_colors":["gold","deep blue"],"silhouette":"suited with ledger implants","notable_features":["ledger band","deal scar"]},
+  "enhancements":["Market prediction lattice"],
+  "special_abilities":[{"name":"Arbitrage Spike","description":"Exploit regional price differences with rapid transaction bots."}],
+  "equipment":{"weapons":[],"gadgets":["Exchange Pad"]},
+  "statistics":{"health":100,"stamina":90,"armor":40,"strength":60,"intelligence":160,"agility":60},
+  "backstory":"Malik built a reputation turning static markets into opportunity streams.",
+  "lore_tags":["merchant","helix","trade"]
+}

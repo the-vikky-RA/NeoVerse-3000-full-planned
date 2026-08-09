@@ -1,0 +1,17 @@
+{
+  "id": "Character-021",
+  "name": "Rian Kato",
+  "role": "Data Runner",
+  "category": "Courier",
+  "affiliation": "Free Net",
+  "home_world": "Neo Earth — Osaka Spire",
+  "age": 28,
+  "height_cm": 175,
+  "visual_identity": {"key_colors":["neon teal","charcoal"],"silhouette":"slim with courier pack","notable_features":["data-tether","optic visor"]},
+  "enhancements":["Subdermal cache","Route optimizer"],
+  "special_abilities":[{"name":"Packet Dash","description":"Burst speed across urban corridors while carrying secure data."}],
+  "equipment":{"weapons":["EM Pistol"],"gadgets":["Holo-Parcel"]},
+  "statistics":{"health":95,"stamina":140,"armor":40,"strength":70,"intelligence":110,"agility":150},
+  "backstory":"Rian moved messages between the undercities and corporate towers, skilled at slipping past watchful eyes.",
+  "lore_tags":["courier","net","osaka"]
+}

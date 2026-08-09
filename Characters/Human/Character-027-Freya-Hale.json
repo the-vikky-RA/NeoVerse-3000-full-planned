@@ -1,0 +1,17 @@
+{
+  "id": "Character-027",
+  "name": "Freya Hale",
+  "role": "Courier Captain",
+  "category": "Logistics",
+  "affiliation": "Skyline Carriers",
+  "home_world": "Neo Earth — New Oslo",
+  "age": 34,
+  "height_cm": 168,
+  "visual_identity": {"key_colors":["ice blue","steel"],"silhouette":"flight jacket","notable_features":["wing tattoos","nav implant"]},
+  "enhancements":["Wind-sense module"],
+  "special_abilities":[{"name":"Air Relay","description":"Establish temporary airborne relays to bypass ground blockades."}],
+  "equipment":{"weapons":[],"gadgets":["Carrier Beacon"]},
+  "statistics":{"health":105,"stamina":125,"armor":60,"strength":70,"intelligence":110,"agility":125},
+  "backstory":"Freya coordinates fast, adaptive courier routes over turbulent skies.",
+  "lore_tags":["courier","skyline","new-oslo"]
+}

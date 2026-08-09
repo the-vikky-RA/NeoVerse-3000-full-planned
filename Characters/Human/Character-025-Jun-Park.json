@@ -1,0 +1,17 @@
+{
+  "id": "Character-025",
+  "name": "Jun Park",
+  "role": "Circuit Artisan",
+  "category": "Technician",
+  "affiliation": "Maker Guild",
+  "home_world": "Neo Earth — Seoul Conclave",
+  "age": 31,
+  "height_cm": 172,
+  "visual_identity": {"key_colors":["copper","neon blue"],"silhouette":"apron with tool loops","notable_features":["hand stabilizers","precision lenses"]},
+  "enhancements":["Micro-solder assist"],
+  "special_abilities":[{"name":"Patchwork Weaver","description":"Rapidly retrofit electronics for field repairs."}],
+  "equipment":{"weapons":[],"gadgets":["Tool Gauntlet"]},
+  "statistics":{"health":100,"stamina":110,"armor":40,"strength":65,"intelligence":140,"agility":85},
+  "backstory":"Jun custom-builds bespoke electronics for artists and operatives.",
+  "lore_tags":["artisan","maker","seoul"]
+}

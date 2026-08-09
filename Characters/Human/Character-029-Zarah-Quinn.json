@@ -1,0 +1,17 @@
+{
+  "id": "Character-029",
+  "name": "Zarah Quinn",
+  "role": "RanTech Operative",
+  "category": "Field Engineer",
+  "affiliation": "RanTech Industries",
+  "home_world": "Neo Earth — Dublin Grid",
+  "age": 33,
+  "height_cm": 169,
+  "visual_identity": {"key_colors":["neon purple","silver"],"silhouette":"tech suit","notable_features":["wrist rigs","plasma welder"]},
+  "enhancements":["Tool synthesis module"],
+  "special_abilities":[{"name":"Field Reforge","description":"Repair or jury-rig equipment rapidly under fire."}],
+  "equipment":{"weapons":[],"gadgets":["Weld-Emitter"]},
+  "statistics":{"health":105,"stamina":120,"armor":60,"strength":80,"intelligence":135,"agility":95},
+  "backstory":"Zarah keeps frontline structures operational against hostile environments.",
+  "lore_tags":["engineer","rantech","dublin"]
+}

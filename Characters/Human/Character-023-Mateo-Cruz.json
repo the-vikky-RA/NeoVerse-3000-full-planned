@@ -1,0 +1,17 @@
+{
+  "id": "Character-023",
+  "name": "Mateo Cruz",
+  "role": "Dockmaster",
+  "category": "Logistics",
+  "affiliation": "Port Authority",
+  "home_world": "Neo Earth — Veracruz Port",
+  "age": 50,
+  "height_cm": 178,
+  "visual_identity": {"key_colors":["sea green","steel"],"silhouette":"broad with control harness","notable_features":["cargo tether","weathered hands"]},
+  "enhancements":["Load balancing servos"],
+  "special_abilities":[{"name":"Load Matrix","description":"Optimize cargo flow to speed boarding and dispatch."}],
+  "equipment":{"weapons":[],"gadgets":["Port Console Key"]},
+  "statistics":{"health":120,"stamina":100,"armor":70,"strength":110,"intelligence":100,"agility":75},
+  "backstory":"Mateo keeps the massive ports flowing under shifting trade lanes.",
+  "lore_tags":["dock","logistics","veracruz"]
+}

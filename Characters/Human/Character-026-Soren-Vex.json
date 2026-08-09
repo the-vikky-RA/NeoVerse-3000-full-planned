@@ -1,0 +1,17 @@
+{
+  "id": "Character-026",
+  "name": "Soren Vex",
+  "role": "Protocol Hacker",
+  "category": "Cyber Operative",
+  "affiliation": "Ghost Net",
+  "home_world": "Neo Earth — Reykjavik Cluster",
+  "age": 30,
+  "height_cm": 180,
+  "visual_identity": {"key_colors":["violet","black"],"silhouette":"hacker cloak with data cords","notable_features":["neural port","glowing tattoos"]},
+  "enhancements":["Protocol slip module"],
+  "special_abilities":[{"name":"Stack Infiltrate","description":"Bypass layered corporate protocols for limited windows."}],
+  "equipment":{"weapons":["Signal Disruptor"],"gadgets":["Ghost Nodes"]},
+  "statistics":{"health":95,"stamina":120,"armor":50,"strength":70,"intelligence":160,"agility":110},
+  "backstory":"Soren operates in the gray zones between corporate firewalls and citizen networks.",
+  "lore_tags":["hacker","ghost-net","reykjavik"]
+}

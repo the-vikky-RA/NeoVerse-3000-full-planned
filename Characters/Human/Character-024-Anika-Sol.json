@@ -1,0 +1,17 @@
+{
+  "id": "Character-024",
+  "name": "Anika Sol",
+  "role": "Neural DJ",
+  "category": "Performer",
+  "affiliation": "Lumina Nights",
+  "home_world": "Neo Earth — Rio Arcology",
+  "age": 29,
+  "height_cm": 170,
+  "visual_identity": {"key_colors":["neon magenta","charcoal"],"silhouette":"stylish with neural rig","notable_features":["wave tattoos","sound ports"]},
+  "enhancements":["Beat-synch implants"],
+  "special_abilities":[{"name":"Harmonic Pulse","description":"Project crowd-engaging holographic soundscapes."}],
+  "equipment":{"weapons":[],"gadgets":["Neural Deck"]},
+  "statistics":{"health":90,"stamina":130,"armor":30,"strength":50,"intelligence":120,"agility":110},
+  "backstory":"Anika curates live neural concerts that double as data streams.",
+  "lore_tags":["dj","lumina","rio"]
+}
