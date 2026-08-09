@@ -1,0 +1,17 @@
+{
+  "id": "Character-006",
+  "name": "Ibrahim Ko",
+  "role": "Field Medic",
+  "category": "Support",
+  "affiliation": "Humanitarian Core",
+  "home_world": "Neo Earth — Cairo Basin",
+  "age": 39,
+  "height_cm": 180,
+  "visual_identity": {"key_colors":["white","electric blue"],"silhouette":"utility suit with med pouches","notable_features":["bio-scan antenna","healing injector port"]},
+  "enhancements":["Auto-heal stimulators","Nano-clotting"],
+  "special_abilities":[{"name":"Adaptive Triage","description":"Prioritize and stabilize multiple casualties rapidly."}],
+  "equipment":{"weapons":["Defensive Shock Pistol"],"gadgets":["Med-Relay Beacon"]},
+  "statistics":{"health":140,"stamina":100,"armor":65,"strength":90,"intelligence":120,"agility":75},
+  "backstory":"Ibrahim leads field teams across humanitarian corridors and conflict zones.",
+  "lore_tags":["medic","humanitarian","cairo"]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Character-002",
+  "name": "Kiran Voss",
+  "role": "Cyber Scout",
+  "category": "Augmented Recon Specialist",
+  "affiliation": "Independent Scouting Corps",
+  "home_world": "Neo Earth — Mumbai Arcology",
+  "age": 22,
+  "height_cm": 178,
+  "visual_identity": {"key_colors":["neon green","charcoal"],"silhouette":"lean, cloaked sensor arrays","notable_features":["optic filaments","reinforced calves"]},
+  "enhancements":["Phase-stealth weave","Sensory uplink"],
+  "special_abilities":[{"name":"Echo Cloak","description":"Short-duration near-invisibility and sensor dampening."}],
+  "equipment":{"weapons":["Pulse Dagger"],"gadgets":["Sensor Drone"]},
+  "statistics":{"health":90,"stamina":130,"armor":45,"strength":70,"intelligence":125,"agility":140},
+  "backstory":"Raised in the vertical slums of Mumbai Arcology, Kiran became an expert scout and information broker.",
+  "lore_tags":["scout","stealth","arcology"]
+}

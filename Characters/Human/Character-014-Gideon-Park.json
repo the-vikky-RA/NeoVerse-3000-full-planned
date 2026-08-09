@@ -1,0 +1,17 @@
+{
+  "id": "Character-014",
+  "name": "Gideon Park",
+  "role": "Exo-Specialist",
+  "category": "Heavy Combat",
+  "affiliation": "Corporate Security — NovaDyne",
+  "home_world": "Neo Earth — Singapore Dock",
+  "age": 41,
+  "height_cm": 200,
+  "visual_identity": {"key_colors":["steel","neon red"],"silhouette":"massive exo-armor","notable_features":["armored plates","power conduits"]},
+  "enhancements":["Strength servos","Heat dissipation matrix"],
+  "special_abilities":[{"name":"Charge Brace","description":"Massive shielded charge that knocks back opponents."}],
+  "equipment":{"weapons":["Titan Cannon"],"gadgets":["Overdrive Battery"]},
+  "statistics":{"health":200,"stamina":80,"armor":180,"strength":200,"intelligence":80,"agility":50},
+  "backstory":"Gideon enforces corporate interests with relentless efficiency.",
+  "lore_tags":["exo","security","novadyne"]
+}

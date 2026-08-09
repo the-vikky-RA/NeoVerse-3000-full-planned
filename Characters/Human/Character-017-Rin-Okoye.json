@@ -1,0 +1,17 @@
+{
+  "id": "Character-017",
+  "name": "Rin Okoye",
+  "role": "Bounty Tracker",
+  "category": "Hunter",
+  "affiliation": "Mercantile Guild",
+  "home_world": "Neo Earth — Lagos Skyway",
+  "age": 35,
+  "height_cm": 183,
+  "visual_identity": {"key_colors":["olive","charcoal"],"silhouette":"stealth harness with trackers","notable_features":["infrared mask","reinforced legs"]},
+  "enhancements":["Target lock implants"],
+  "special_abilities":[{"name":"Trail Echo","description":"Follow layered scent/heat traces across difficult terrain."}],
+  "equipment":{"weapons":["Mag-Trap Rifle"],"gadgets":["Homing Leash"]},
+  "statistics":{"health":125,"stamina":120,"armor":85,"strength":110,"intelligence":95,"agility":110},
+  "backstory":"Rin is known for bringing in targets others consider lost.",
+  "lore_tags":["tracker","guild","lagos"]
+}

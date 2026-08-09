@@ -1,0 +1,17 @@
+{
+  "id": "Character-012",
+  "name": "Hector Zhou",
+  "role": "Freelance Archeologist",
+  "category": "Explorer",
+  "affiliation": "Independent",
+  "home_world": "Exoplanet — Asteria",
+  "age": 48,
+  "height_cm": 179,
+  "visual_identity": {"key_colors":["sandy beige","teal"],"silhouette":"field jacket with pack","notable_features":["dust-lined hair","artifact satchel"]},
+  "enhancements":["Artifact sense implant"],
+  "special_abilities":[{"name":"Relic Trace","description":"Detect and analyze ancient tech signatures."}],
+  "equipment":{"weapons":["Survey Pulse"],"gadgets":["Portable Excavator"]},
+  "statistics":{"health":105,"stamina":95,"armor":60,"strength":85,"intelligence":125,"agility":80},
+  "backstory":"Hector searches deep ruins for artifacts that rewrite history.",
+  "lore_tags":["explorer","artifacts","asteria"]
+}

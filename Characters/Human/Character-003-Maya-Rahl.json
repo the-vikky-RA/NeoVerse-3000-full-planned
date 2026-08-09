@@ -1,0 +1,17 @@
+{
+  "id": "Character-003",
+  "name": "Maya Rahl",
+  "role": "Quantum Engineer",
+  "category": "Technologist",
+  "affiliation": "NeoVerse Research Collective",
+  "home_world": "Orbital Labs — L2 Ring",
+  "age": 34,
+  "height_cm": 167,
+  "visual_identity": {"key_colors":["electric blue","silver"],"silhouette":"compact, lab coat with integrated tools","notable_features":["optic data tattoos","exo-gauntlet"]},
+  "enhancements":["Cognitive acceleration module","haptic micro-tools"],
+  "special_abilities":[{"name":"Field Stitch","description":"Patch local quantum instabilities for brief simulation control."}],
+  "equipment":{"weapons":["None"],"gadgets":["Portable Quantum Splicer"]},
+  "statistics":{"health":100,"stamina":100,"armor":40,"strength":60,"intelligence":160,"agility":80},
+  "backstory":"Lead engineer at the Orbital Labs, Maya specializes in simulation anchoring and procedural generation tech.",
+  "lore_tags":["engineer","quantum","orbital"]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Character-009",
+  "name": "Rhea K",
+  "role": "AI Ethicist",
+  "category": "Cognitive Specialist",
+  "affiliation": "Council of Minds",
+  "home_world": "Neo Earth — Geneva Nexus",
+  "age": 45,
+  "height_cm": 170,
+  "visual_identity": {"key_colors":["silver","neon blue"],"silhouette":"formal, data-lined attire","notable_features":["cranial sigil","augmented pupils"]},
+  "enhancements":["Deep reasoning module"],
+  "special_abilities":[{"name":"Consensus Modelling","description":"Negotiate AI behavior through simulation-driven consensus."}],
+  "equipment":{"weapons":[],"gadgets":["Protocol Tablet"]},
+  "statistics":{"health":100,"stamina":80,"armor":30,"strength":50,"intelligence":180,"agility":60},
+  "backstory":"Rhea advises governments and corporations on ethical AI deployment and governance.",
+  "lore_tags":["ethicist","ai","council"]
+}

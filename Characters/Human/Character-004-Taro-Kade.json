@@ -1,0 +1,17 @@
+{
+  "id": "Character-004",
+  "name": "Taro Kade",
+  "role": "Mech Pilot",
+  "category": "Vehicle Operative",
+  "affiliation": "Free Runners Guild",
+  "home_world": "Neo Earth — Osaka Spire",
+  "age": 31,
+  "height_cm": 185,
+  "visual_identity": {"key_colors":["neon orange","charcoal"],"silhouette":"broad-shouldered with exo-harness","notable_features":["pilot visor","hydraulic joints"]},
+  "enhancements":["Vestigial mech-symbiote interface"],
+  "special_abilities":[{"name":"Synchronize Cockpit","description":"Directly link reflexes with a mech for precision control."}],
+  "equipment":{"weapons":["Railhook"],"gadgets":["Flight Stabilizer"]},
+  "statistics":{"health":130,"stamina":100,"armor":95,"strength":125,"intelligence":90,"agility":85},
+  "backstory":"Ex-street racer turned mech pilot, Taro carved a reputation in arena circuits.",
+  "lore_tags":["pilot","mech","arena"]
+}

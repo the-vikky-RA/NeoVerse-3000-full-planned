@@ -1,0 +1,17 @@
+{
+  "id": "Character-008",
+  "name": "Dmitri Sol",
+  "role": "Orbital Pilot",
+  "category": "Spacefarer",
+  "affiliation": "Free Aeronautics",
+  "home_world": "Mars — Cydonia Hub",
+  "age": 40,
+  "height_cm": 188,
+  "visual_identity": {"key_colors":["rust","electric blue"],"silhouette":"flight-suit with vacuum seals","notable_features":["facial hydration ports","visor array"]},
+  "enhancements":["G-sustain implants"],
+  "special_abilities":[{"name":"Zero-G Maneuver","description":"Perform advanced zero-g evasion and control."}],
+  "equipment":{"weapons":["None"],"gadgets":["Stellar Beacon"]},
+  "statistics":{"health":125,"stamina":90,"armor":70,"strength":100,"intelligence":105,"agility":90},
+  "backstory":"Dmitri has logged thousands of hours piloting between settlements and salvage lanes.",
+  "lore_tags":["pilot","orbital","mars"]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Character-019",
+  "name": "Marek Ors",
+  "role": "Salvage Runner",
+  "category": "Scavenger",
+  "affiliation": "Crew — Black Current",
+  "home_world": "Asteroid — Kestrel Field",
+  "age": 29,
+  "height_cm": 177,
+  "visual_identity": {"key_colors":["grime","neon yellow"],"silhouette":"patchwork suit with grapplers","notable_features":["toolbelt","visor scars"]},
+  "enhancements":["Magnetic grip implants"],
+  "special_abilities":[{"name":"Debris Tango","description":"Efficiently harvest salvage in hazardous debris fields."}],
+  "equipment":{"weapons":["Salvage Cutter"],"gadgets":["Grapple Drone"]},
+  "statistics":{"health":100,"stamina":130,"armor":65,"strength":95,"intelligence":90,"agility":115},
+  "backstory":"Marek ekes out profit by salvaging what others discard.",
+  "lore_tags":["salvage","asteroid","black-current"]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Character-001",
+  "name": "Aaryan Nova",
+  "role": "Prime Vanguard Commander",
+  "category": "Genetically Enhanced Superhuman",
+  "affiliation": "NeoVerse Earth Defense Council",
+  "home_world": "Neo Earth — New Delhi Prime",
+  "age": 27,
+  "height_cm": 193,
+  "visual_identity": {
+    "key_colors": ["electric blue","neon purple","charcoal"],
+    "silhouette": "tall, armored with integrated nano-plates",
+    "notable_features": ["quantum neural implant ridge","adaptive ocular array"]
+  },
+  "enhancements": ["Quantum Neural Cortex","Enhanced Muscle Density","Advanced Regeneration"],
+  "special_abilities": [{"name":"Hyper Reflex Mode","description":"Temporal micro-acceleration for short bursts."}],
+  "equipment": {"weapons": ["Nova Blade","Plasma Pulse Rifle"], "defense": ["Nano Shield Generator"]},
+  "statistics": {"health":120,"stamina":110,"armor":85,"strength":95,"intelligence":130,"agility":115},
+  "backstory": "Aaryan Nova was created by the NeoVerse Earth Defense Program to protect humanity against existential threats in the 30th century.",
+  "lore_tags": ["prime-commander","vanguard","neo-earth"],
+  "notes": {"art_reference": "Concept-Art/Characters/Character-001-Aaryan-Nova.svg","voice_direction": "calm, authoritative"}
+}

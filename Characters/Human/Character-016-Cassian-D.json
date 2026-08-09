@@ -1,0 +1,17 @@
+{
+  "id": "Character-016",
+  "name": "Cassian D",
+  "role": "Communications Officer",
+  "category": "Support",
+  "affiliation": "NeoVerse Earth Defense Council",
+  "home_world": "Neo Earth — Capeil Nexus",
+  "age": 30,
+  "height_cm": 176,
+  "visual_identity": {"key_colors":["navy","neon blue"],"silhouette":"formal comms harness","notable_features":["comm-array","voice modulator"]},
+  "enhancements":["Signal fidelity booster"],
+  "special_abilities":[{"name":"Relay Overcharge","description":"Temporarily boost network reach for allied squads."}],
+  "equipment":{"weapons":[],"gadgets":["Long-range Comms Unit"]},
+  "statistics":{"health":100,"stamina":110,"armor":45,"strength":60,"intelligence":130,"agility":90},
+  "backstory":"Cassian coordinates multi-theater communications during large-scale operations.",
+  "lore_tags":["comms","council","support"]
+}

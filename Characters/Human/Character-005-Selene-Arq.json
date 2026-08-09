@@ -1,0 +1,17 @@
+{
+  "id": "Character-005",
+  "name": "Selene Arq",
+  "role": "Recon Assassin",
+  "category": "Stealth Operative",
+  "affiliation": "Shadow Directorate",
+  "home_world": "Neo Earth — Ephesus Sector",
+  "age": 29,
+  "height_cm": 170,
+  "visual_identity": {"key_colors":["midnight black","neon purple"],"silhouette":"slim, subdued armor","notable_features":["facial camo","synaptic whiskers"]},
+  "enhancements":["Subdermal chameleon weave","Silent step servos"],
+  "special_abilities":[{"name":"Phase Strike","description":"Teleport-assisted short-range strike."}],
+  "equipment":{"weapons":["Mono-edge Katar"],"gadgets":["Neural Scramble Pack"]},
+  "statistics":{"health":95,"stamina":120,"armor":60,"strength":85,"intelligence":115,"agility":150},
+  "backstory":"Selene operates in the shadows, balancing corporate contracts with personal codes of honor.",
+  "lore_tags":["assassin","shadow","ephesus"]
+}

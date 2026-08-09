@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512">
+  <rect width="100%" height="100%" fill="#081018"/>
+  <defs><linearGradient id="g7" x1="0" x2="1"><stop offset="0%" stop-color="#c08cff"/><stop offset="100%" stop-color="#3ab7ff"/></linearGradient></defs>
+  <g transform="translate(256,170)">
+    <circle r="98" fill="url(#g7)" opacity="0.11"/>
+    <rect x="-36" y="58" width="72" height="100" rx="12" fill="#0b0e12"/>
+  </g>
+  <text x="50%" y="460" font-family="Segoe UI" font-size="20" fill="#c08cff" text-anchor="middle">Zoe Myles</text>
+</svg>

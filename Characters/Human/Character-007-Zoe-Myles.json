@@ -1,0 +1,17 @@
+{
+  "id": "Character-007",
+  "name": "Zoe Myles",
+  "role": "Holograph Designer",
+  "category": "Creative Specialist",
+  "affiliation": "Lumina Studios",
+  "home_world": "Neo Earth — Lisbon Expanse",
+  "age": 26,
+  "height_cm": 165,
+  "visual_identity": {"key_colors":["neon purple","silver"],"silhouette":"stylish, layered clothing with holo-panels","notable_features":["holo-capillaries","tattooed shaders"]},
+  "enhancements":["Neural renderer link"],
+  "special_abilities":[{"name":"Ambient Fabrication","description":"Generate temporary holographic constructs for cover or art."}],
+  "equipment":{"weapons":[],"gadgets":["Holo-Emitter" ]},
+  "statistics":{"health":85,"stamina":120,"armor":30,"strength":50,"intelligence":140,"agility":110},
+  "backstory":"Zoe builds immersive live environments for top-tier entertainment and covert ops.",
+  "lore_tags":["artist","holo","lumina"]
+}

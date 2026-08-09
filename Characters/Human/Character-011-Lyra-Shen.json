@@ -1,0 +1,17 @@
+{
+  "id": "Character-011",
+  "name": "Lyra Shen",
+  "role": "Combat AI Trainer",
+  "category": "Tactical Instructor",
+  "affiliation": "NeoVerse Defense Academy",
+  "home_world": "Neo Earth — Beijing Sector",
+  "age": 33,
+  "height_cm": 172,
+  "visual_identity": {"key_colors":["neon red","charcoal"],"silhouette":"armoured training suit","notable_features":["data weave","tactical visor"]},
+  "enhancements":["Adaptive teaching core"],
+  "special_abilities":[{"name":"Sim Cascade","description":"Generate adaptive training opponents to accelerate learning."}],
+  "equipment":{"weapons":["Simulation Pistol"],"gadgets":["Tactical AI Module"]},
+  "statistics":{"health":110,"stamina":115,"armor":80,"strength":95,"intelligence":140,"agility":105},
+  "backstory":"Lyra trains the next generation of soldiers and their AI companions.",
+  "lore_tags":["trainer","academy","defense"]
+}

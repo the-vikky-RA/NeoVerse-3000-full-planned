@@ -1,0 +1,17 @@
+{
+  "id": "Character-013",
+  "name": "Aisha Noor",
+  "role": "Street Tech",
+  "category": "Hacker",
+  "affiliation": "Night Market Collective",
+  "home_world": "Neo Earth — Karachi Grid",
+  "age": 24,
+  "height_cm": 160,
+  "visual_identity": {"key_colors":["neon cyan","black"],"silhouette":"hooded, layered gear","notable_features":["hand filaments","screen-face tattoos"]},
+  "enhancements":["Signal phasing implant"],
+  "special_abilities":[{"name":"Net Weave","description":"Rapidly penetrate unsecured systems for short durations."}],
+  "equipment":{"weapons":[],"gadgets":["Portable Node Kit"]},
+  "statistics":{"health":80,"stamina":140,"armor":35,"strength":45,"intelligence":150,"agility":135},
+  "backstory":"Aisha turned hacking into an artform and a livelihood in the Karachi night market.",
+  "lore_tags":["hacker","street","karachi"]
+}

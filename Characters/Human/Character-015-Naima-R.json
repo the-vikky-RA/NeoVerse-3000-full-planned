@@ -1,0 +1,17 @@
+{
+  "id": "Character-015",
+  "name": "Naima R",
+  "role": "Terraform Specialist",
+  "category": "Environmental Scientist",
+  "affiliation": "Planetary Works",
+  "home_world": "Desert Planet — Solace",
+  "age": 38,
+  "height_cm": 168,
+  "visual_identity": {"key_colors":["sand","emerald"],"silhouette":"utility robes with filtration unit","notable_features":["respiratory seals","soil analyzers"]},
+  "enhancements":["Adaptive filtration"],
+  "special_abilities":[{"name":"Microclime Seed","description":"Deploy rapid micro-environment patches to stabilize flora."}],
+  "equipment":{"weapons":[],"gadgets":["Terraform Injector"]},
+  "statistics":{"health":110,"stamina":95,"armor":60,"strength":70,"intelligence":140,"agility":70},
+  "backstory":"Naima leads terraforming crews to rehabilitate harsh worlds.",
+  "lore_tags":["terraform","science","solace"]
+}

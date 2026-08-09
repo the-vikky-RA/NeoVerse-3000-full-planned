@@ -1,0 +1,17 @@
+{
+  "id": "Character-018",
+  "name": "Vera Holt",
+  "role": "Station Chief",
+  "category": "Administrator",
+  "affiliation": "Orbital Administration",
+  "home_world": "Station — Serran Hub",
+  "age": 52,
+  "height_cm": 168,
+  "visual_identity": {"key_colors":["glass","midnight"],"silhouette":"formal with insignia","notable_features":["ceremonial collar","augmented eyes"]},
+  "enhancements":["Data memory lattice"],
+  "special_abilities":[{"name":"Authority Field","description":"Issue localized governance directives that influence NPC behavior."}],
+  "equipment":{"weapons":[],"gadgets":["Governance Baton"]},
+  "statistics":{"health":95,"stamina":80,"armor":50,"strength":60,"intelligence":150,"agility":55},
+  "backstory":"Vera manages station affairs and mediates disputes in the Serran Hub.",
+  "lore_tags":["admin","orbital","serran"]
+}

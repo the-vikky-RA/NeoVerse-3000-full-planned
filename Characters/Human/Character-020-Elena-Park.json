@@ -1,0 +1,17 @@
+{
+  "id": "Character-020",
+  "name": "Elena Park",
+  "role": "Diplomatic Envoy",
+  "category": "Politician",
+  "affiliation": "United Spheres Council",
+  "home_world": "Neo Earth — Seoul Conclave",
+  "age": 46,
+  "height_cm": 169,
+  "visual_identity": {"key_colors":["cerulean","pearl"],"silhouette":"elegant formal wear","notable_features":["emblem brooch","augmented gaze"]},
+  "enhancements":["Charisma modulation implant"],
+  "special_abilities":[{"name":"Consensus Wave","description":"Briefly reduce hostility among nearby NPCs via empathic modulation."}],
+  "equipment":{"weapons":[],"gadgets":["Protocol Scribe"]},
+  "statistics":{"health":100,"stamina":90,"armor":40,"strength":60,"intelligence":150,"agility":65},
+  "backstory":"Elena mediates high-stakes negotiations across human and AI factions.",
+  "lore_tags":["diplomat","council","seoul"]
+}

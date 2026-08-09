@@ -1,0 +1,17 @@
+{
+  "id": "Character-010",
+  "name": "Orin Vale",
+  "role": "Smuggler Captain",
+  "category": "Rogue",
+  "affiliation": "Independent",
+  "home_world": "Outer Rim — Helix Belt",
+  "age": 37,
+  "height_cm": 182,
+  "visual_identity": {"key_colors":["rust","neon green"],"silhouette":"rugged, patched coat","notable_features":["scarred brow","implant compass"]},
+  "enhancements":["Radiation tolerance implants"],
+  "special_abilities":[{"name":"Slipstream Route","description":"Find and exploit transient navigation corridors."}],
+  "equipment":{"weapons":["Scrap Blaster"],"gadgets":["Smuggler's Ledger"]},
+  "statistics":{"health":115,"stamina":105,"armor":70,"strength":100,"intelligence":95,"agility":100},
+  "backstory":"Orin runs a tight ship and a looser ledger across the Helix trade routes.",
+  "lore_tags":["smuggler","helix","outer-rim"]
+}
